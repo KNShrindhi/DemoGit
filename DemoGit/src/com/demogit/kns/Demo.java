@@ -6,6 +6,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		System.out.println("Demo Git");
 		System.out.println("CI test for service hook");
+		System.out.println("It works perfectly");
 	}
 
 }
